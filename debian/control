@@ -1,5 +1,5 @@
 Source: pandorga-config-mate
-Section: unknown
+Section: misc 
 Priority: optional
 Maintainer: Pandorga GNU/Linux Development Team <dev@pandorgalinux.com.br>
 Build-Depends: debhelper (>= 9)
