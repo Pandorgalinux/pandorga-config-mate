@@ -1,0 +1,25 @@
+/desktop/gnome/background/picture_filename /usr/share/pixmaps/backgrounds/pandorga/desktopProfessor.jpg
+/desktop/gnome/background/picture_options wallpaper
+/desktop/gnome/background/picture_options stretched
+/desktop/gnome/volume_manager/autophoto_command "gthumb --import-photos %h"
+/apps/gnome-session/options/show_splash_screen false
+/apps/nautilus/preferences/always_use_browser true
+/desktop/gnome/applications/main-menu/file-area/user_specified_apps [iceweasel.desktop,ooo-writer.desktop,listen.desktop,gthumb.desktop,nautilus-home.desktop]
+/desktop/gnome/volume_manager/autoburn_data_cd_command brasero -d
+/desktop/gnome/volume_manager/autoburn_audio_cd_command brasero -a
+/apps/nautilus/preferences/preview_sound never
+/apps/gksu/sudo-mode false
+/apps/gnome-screensaver/lock_enabled false
+/desktop/gnome/applications/main-menu/system_monitor baobab.desktop
+/desktop/gnome/peripherals/keyboard/kbd/layouts [br]
+/apps/panel/default_setup/objects/email_launcher/launcher_location icedove.desktop
+/apps/panel/default_setup/objects/browser_launcher/launcher_location iceweasel.desktop
+/desktop/gnome/sound/enable_esd true
+/desktop/gnome/sound/event_sounds true
+/apps/metacity/general/num_workspaces 1
+/apps/nautilus/preferences/always_use_location_entry true
+/apps/nautilus/preferences/click_policy single
+/apps/nautilus/desktop/home_icon_visible false
+/apps/nautilus/desktop/home_icon_name Arquivos
+/apps/nautilus/desktop/volumes_visible true
+/apps/nautilus/desktop/computer_icon_visible false
