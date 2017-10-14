@@ -9,7 +9,7 @@ Homepage: <insert the upstream URL, if relevant>
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/pandorga-config-mate.git
 
 Package: pandorga-config-mate
-Architecture: any
+Architecture: all 
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
